@@ -1,0 +1,7 @@
+C:\Users\Vochotalacha\Documents\Visual Studio 2017\Projects\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\AdopcionesSingleton.exe.config
+C:\Users\Vochotalacha\Documents\Visual Studio 2017\Projects\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\AdopcionesSingleton.exe
+C:\Users\Vochotalacha\Documents\Visual Studio 2017\Projects\AdopcionesSingleton\AdopcionesSingleton\bin\Debug\AdopcionesSingleton.pdb
+C:\Users\Vochotalacha\Documents\Visual Studio 2017\Projects\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\AdopcionesSingleton.csprojAssemblyReference.cache
+C:\Users\Vochotalacha\Documents\Visual Studio 2017\Projects\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\AdopcionesSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Vochotalacha\Documents\Visual Studio 2017\Projects\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\AdopcionesSingleton.exe
+C:\Users\Vochotalacha\Documents\Visual Studio 2017\Projects\AdopcionesSingleton\AdopcionesSingleton\obj\Debug\AdopcionesSingleton.pdb

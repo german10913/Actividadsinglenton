@@ -1,0 +1,2 @@
+c:\users\vochotalacha\documents\visual studio 2017\Projects\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.csprojAssemblyReference.cache
+c:\users\vochotalacha\documents\visual studio 2017\Projects\PatronesDeDiseño\PatronesDeDiseño\obj\Debug\PatronesDeDiseño.csproj.CoreCompileInputs.cache
